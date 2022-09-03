@@ -1,0 +1,9 @@
+pyyaml
+torch
+torchvision
+torchaudio
+matplotlib
+tqdm
+text2vec
+pdfplumber
+opencc-python-reimplemented
